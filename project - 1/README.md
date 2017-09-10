@@ -8,6 +8,7 @@ I'ts been some time since I've used html and atom so this is kind of a refresher
 
 - list item 1
 - list item 2
+- new line of text for git
 
 
 1. List item 1
