@@ -3,20 +3,19 @@
 **MART 341**
 
 *The class so far,*
-I'ts been some time since I've used html and atom so this is kind of a refresher for me.
+It's been some time since I've used html and atom so this is kind of a refresher for me.
 ---
 
 - list item 1
 - list item 2
-- new line of text for git
 
 
 1. List item 1
 2. List item 2
 
 ```markdown
-# This is a code block.
-## It is written in Markdown.
+This is a code block.
+It is written in Markdown.
 ```
 [Cats](http://cats.com/)
 
