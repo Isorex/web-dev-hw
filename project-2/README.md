@@ -32,3 +32,10 @@ Part 2
 I had fun creating the form page and messing around with different designs.
 
 The only trouble I had this week was getting my pages to link. It's been awhile since I've used html so it was a good refresher.
+---
+Part 3
+---
+I had problems with linking my other pages together.
+
+I also had an issue with my music file location and getting my audio controller to work.
+I found the iFrame for Google maps interesting.
