@@ -1,0 +1,29 @@
+
+@font-face {
+    font-family: 'Merriweather', sans-serif;
+    src: local('')
+    url('../fonts/Merriweather-Regular.tff') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Merriweather', sans-serif;
+    src: local('')
+    url('../fonts/Merriweather-Bold.tff') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'AmaticSC', sans-serif;
+    src: local('')
+    url('../fonts/AmaticSC-Regular.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'AmaticSC', sans-serif;
+    src: local('')
+    url('../fonts/AmaticSC-Bold.ttf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
