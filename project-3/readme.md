@@ -2,6 +2,8 @@
 
 ## Project 3 Readme
 ---
+Part 1
+---
 1. I would like to do a book showcase!
 
 2. I'm going to do a site for the book, 'The Hobbit' by J.R.R. Tolkien. Here is the writting sample:
@@ -19,8 +21,12 @@
 6.
 ![](https://i.pinimg.com/originals/ea/d8/7f/ead87f4430d93fec2a7c77b82233b85a.gif)
 ---
+Part 2
+---
 I had a few issues with getting my fonts to work properly
+Had some weird margin errors that took me hours to fix.
 
-Had some weird margin errors that took me hours
+---
+Part 3
 ---
 I had some trouble with padding and getting the new menu bar to fit properly. CSS is a fun language to use in web design. I hope we will use a new language for the next project.
