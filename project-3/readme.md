@@ -22,3 +22,5 @@
 I had a few issues with getting my fonts to work properly
 
 Had some weird margin errors that took me hours
+---
+I had some trouble with padding and getting the new menu bar to fit properly. CSS is a fun language to use in web design. I hope we will use a new language for the next project.
