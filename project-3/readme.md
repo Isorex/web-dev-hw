@@ -24,7 +24,7 @@ Part 1
 Part 2
 ---
 I had a few issues with getting my fonts to work properly
-Had some weird margin errors that took me hours to fix.
+Had some weird margin errors that took me hours to fix
 
 ---
 Part 3
